@@ -66,7 +66,6 @@ In this example, we obtain a lock on the class as a whole before allowing constr
 This is a bit cleaner and much simplier, but reduces the amounts of concurrency in a multithreaded envirnoment.
 
 
- `
     public class GameState {
         private static volatile GameState instance = null;
         private static Object _lock = new Object();
@@ -84,8 +83,7 @@ This is a bit cleaner and much simplier, but reduces the amounts of concurrency 
 
             return instance;
         }
-    }
-` 
+    } 
 This is the double locking pattern in which we use a private Object to obtain the lock on and before we attempt to lock the object, we check the locking criterion without actually acquiring the lock. 
 
 
