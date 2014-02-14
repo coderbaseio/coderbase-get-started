@@ -9,7 +9,7 @@ title: try_git
 description: 
 homepage: 
 languages: 
-visible: true
+visible: false
 
 # 'Visible: false' means it will remain in your repository,
 # but will not be visible on your profile. However, if the posts within this project
