@@ -5,21 +5,18 @@ summary: A brief introduction of me.
 draft: false 
 ---
 
-> Lorem ipsum dolor sit amet, consectetur adipisicing elit. Accusantium, saepe.
+> If you have a problem and your solution is factories....you have a problem factory.
 
-### Lorem ipsum dolor.
+### A bit about me.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quia, sequi, consectetur aut provident quasi quidem dolorum ducimus modi inventore omnis dolores tempora sint culpa a amet saepe at dolore reiciendis sit hic possimus enim eaque delectus consequuntur est accusantium rerum explicabo vel magnam facilis. Maxime, dicta iusto rem placeat deserunt!
+If you laughed at that, you might be similar to me. I love Computer Science and cannot find enough time to fill my life with all the projects floating in my head. I first became interested in programming when I found out that you can make GUIs and write small Visual Basic programs in Word. I immediately started learning the language and hacking my way through it. I made a small program that searched through Windows' Registery to find keys which looked like Malware. Oh the fun I had.
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Impedit, voluptate, quasi, animi iusto ipsa similique qui nostrum quisquam eum vero beatae amet vel minima dolorem provident laudantium voluptatem ut totam.
+I am now persuing a Masters of Science in Computer Science at Arizona State University. I primarily work in Body Sensor Networks; programming sensors to collect ECG and EEG and process the data to do something fun with. For example, you can check out [Cerebral Academy](http://www.coderbase.io/majora2007/CerebralAcademy) where I use EEG signals to push, pull, and lift 3D objects to solve puzzles. 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Explicabo, culpa, ex, dolore itaque voluptatem eius minima consequuntur molestiae commodi veniam facilis pariatur eveniet odit at error alias voluptatum iusto voluptates?
-
-
-### Lorem ipsum dolor.
+I am always open to learning new technologies or concepts and love reading code, especially open source libraries and learn how they work. I hope to post interesting challenges or just plain ol' funny codes that I come accross.
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Iure adipisci animi explicabo unde nemo non maiores quisquam distinctio aut. Aspernatur, modi perferendis non earum tempore sit molestiae impedit labore vero incidunt. Iure, saepe quae ab provident natus autem dolorum maxime commodi hic nihil. Pariatur aut quas neque provident natus! Doloremque, earum molestiae at illo ipsa esse fugiat recusandae ut hic.
+### Me outside of CS
 
 
-Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minus, debitis, ratione, placeat soluta et velit nam at maiores quam ad veritatis magnam dolores similique sint iste quo doloribus quis delectus reiciendis possimus porro vitae recusandae assumenda est aperiam nesciunt nisi quod nemo dolore animi labore hic facere fugiat atque ducimus.
+Without Computer Science, I enjoy gardening, hiking, DIY projects, cooking, and Brainwave Entrainment. I'm really passionate about cooking, well my friends would say "experimenting" as I love seeing what new things I can come up with. I am also actively using and developing Brainwave Entrainment sessions. Brainwave Entrainment is a phenonomon where oscillating stimulii cause your brainwaves to begin oscillating at the same frequency. Using different frequencies, certain disorders can be targeted and with repeated use, the brain can learn to overcome these problems. 
