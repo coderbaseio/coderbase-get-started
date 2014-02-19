@@ -6,7 +6,7 @@ summary: Double locking mechanism for a Thread safe Singleton.
 ---
 
 ### The what and why of Singleton
-Singleton is a design pattern which guarentees a class only has one instance at any given time. The Singleton pattern is often used by Abstract Factory, Builder, Facade, and State objects. A common technique with Singleton is Lazy loading which initializes/allocates on the first time the Singleton is used, rather than at start. 
+Singleton is a design pattern which guarantees a class only has one instance at any given time. The Singleton pattern is often used by Abstract Factory, Builder, Facade, and State objects. A common technique with Singleton is Lazy loading which initializes/allocates on the first time the Singleton is used, rather than at start. 
 
 A simple Singleton with Lazy loading is shown below in Java.
 
