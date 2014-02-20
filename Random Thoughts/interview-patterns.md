@@ -1,7 +1,7 @@
 ---
 title: Frustration with Interviewers and Design Patterns
 languages: Java
-draft: true
+draft: false
 summary: My frustration with Interviewers and their questions about Design Patterns
 ---
 
