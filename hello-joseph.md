@@ -5,7 +5,7 @@ summary: A brief introduction of me.
 draft: false 
 ---
 
-> If you have a problem and your solution is factories....you have a problem factory.
+> If you have a problem and your solution is a factory....you have a problem factory.
 
 ### A bit about me.
 
